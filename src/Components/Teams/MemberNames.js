@@ -16,7 +16,7 @@ export const MemberNames = {
     lastName: [
       "Bhandari",
       "Singh",
-      "Junja",
+      "Juneja",
       "Choudhary",
       "Vekhande",
       "Joshi",
